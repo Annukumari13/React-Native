@@ -16,8 +16,5 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "vercel --prod"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
